@@ -1,10 +1,64 @@
 {
   "tasks": [
     {
-      "name": "Nueva",
-      "description": "Trea",
+      "name": "Configurar Redux Store",
+      "description": "Implementar el store de Redux en la aplicación React/Angular, incluyendo reducers y acciones.",
       "completed": false,
       "id": 1
+    },
+    {
+      "name": "Crear componente Redux",
+      "description": "Desarrollar un componente conectado a Redux para gestionar el estado global de la aplicación.",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "name": "Integrar Redux Thunk",
+      "description": "Agregar Redux Thunk para manejar acciones asíncronas en el flujo de Redux.",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "name": "Migrar a React Hooks",
+      "description": "Refactorizar componentes de clase a componentes funcionales con React Hooks.",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "name": "Crear servicio de API",
+      "description": "Implementar un servicio que consuma datos de una API externa en la aplicación Angular/React.",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "name": "Manejar rutas con React Router",
+      "description": "Configurar React Router para habilitar la navegación entre páginas en una aplicación React.",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "name": "Optimizar rendimiento en Redux",
+      "description": "Identificar y resolver problemas de rendimiento en el almacenamiento y recuperación de datos con Redux.",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "name": "Implementar Lazy Loading",
+      "description": "Aplicar lazy loading para cargar módulos y componentes de forma dinámica en Angular/React.",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "name": "Agregar internacionalización (i18n)",
+      "description": "Configurar soporte multilingüe en la aplicación utilizando i18n y traducciones en Angular/React.",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "name": "Agregar pruebas unitarias",
+      "description": "Escribir pruebas unitarias para comprobar la funcionalidad de componentes y acciones en Redux.",
+      "completed": false,
+      "id": 10
     }
   ]
 }
